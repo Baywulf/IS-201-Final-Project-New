@@ -1,0 +1,83 @@
+/* Bayley Welsh 4/9/22 */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: white;
+    
+    
+}
+
+
+
+a {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifx;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+a:hover{text-decoration: underline;}
+
+.header{
+    top: .01px;
+    left: .01px;
+    right: .01px;
+    height: 550px;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding-right: 10px;
+   
+    
+}
+
+.tbh1{
+    top: 130px;
+    left: 540px;   
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+     
+}
+
+.subheader{
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifx;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.tabback{
+    background-image: url('../images/stars.webp');
+    background-position: center;
+}
+
+
+.mainbody {
+    top: 560px;
+    height: 750px;
+    left: 1px;
+    right: 200px;
+    padding-right: 5px;
+    position: absolute;
+    color: black;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    color: black;
+    
+    font-size: 15px;
+    text-align: center;
+    position: fixed;
+    background-color: black;
+    
+}
+
